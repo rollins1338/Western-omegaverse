@@ -1,1 +1,1 @@
-storing western omegaverse novels whice I will add soon.
+storing western dark romance and omegaverse novels whice I will add soon.
