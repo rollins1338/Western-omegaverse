@@ -1,1 +1,1 @@
-[^](https://rxfxnovels.wordpress.com/2025/11/07/indbted-book-1-3/)
+[^](https://github.com/rollins1338/INDBT17/tree/main)
