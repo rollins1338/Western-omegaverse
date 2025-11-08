@@ -8,3 +8,4 @@
 [Dark Romance DB](https://darkromancereads.com/)
 
 [*](https://github.com/rollins1338/Novel-Lists-Utills?tab=readme-ov-file)
+[^](https://www.reddit.com/r/DarkRomance/s/MM0xeMbjV9)
