@@ -10,6 +10,7 @@
 - [ ] [The Edge of Darkness Trilogy](https://github.com/rollins1338/EDGEODRKNSS)
 - [ ] [Germaphobe (Standalone)](https://github.com/rollins1338/Germaphobe/tree/main)
 - [ ] [Under Your Scars (Standalone)](https://github.com/rollins1338/undrurscrs)
+- [ ] [Web of Silence Duet](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/tree/main/Web%20of%20Silence%20(Duet))
 
 
 ---
