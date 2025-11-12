@@ -8,9 +8,9 @@
 - [x] [Indebted](https://github.com/rollins1338/INDBT17)
 - [x] [Possessing Violet](https://github.com/rollins1338/possesingV)  **A fucking masterpiece 10/10** [`more like it`](https://github.com/rollins1338/bookslikecorruptobession)
 - [ ] [The Edge of Darkness Trilogy](https://github.com/rollins1338/EDGEODRKNSS)
-- [ ] [Under Your Scars (Standalone)](https://github.com/rollins1338/undrurscrs)
+- [x] [Under Your Scars (Standalone)](https://github.com/rollins1338/undrurscrs)
 - [ ] [Web of Silence Duet](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/tree/main/Web%20of%20Silence%20(Duet))
-- [ ] [The Ritual](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/blob/main/Unhinged%20standalone%20stories/The%20Rituals.pdf)
+- [x] [The Ritual (Standalone)](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/blob/main/Unhinged%20standalone%20stories/The%20Rituals.pdf)
 
 
 ---
