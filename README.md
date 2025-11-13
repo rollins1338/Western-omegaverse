@@ -16,7 +16,9 @@
 
 ---
 
-[Dark Romance DB](https://darkromancereads.com/)
+- [Dark Romance DB](https://darkromancereads.com/)
+- [Audiobooks](https://audiobookbay.lu)
+- [MORE Audibooks](https://www.myanonamouse.net/login.php?returnto=%2F)
 
 [*](https://github.com/rollins1338/Novel-Lists-Utills?tab=readme-ov-file)
 [^](https://www.reddit.com/r/DarkRomance/s/MM0xeMbjV9)
