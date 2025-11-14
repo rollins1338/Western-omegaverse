@@ -1,4 +1,4 @@
-`Disclaimer: All the novels here have extremally dark themes. I'm too lazy to add the tags since I made it for personal use but if you're easily triggered by dark themes these ain't for you. All the books here are on goodreads. You can check the synopsis for each book there.`
+`Disclaimer: All the novels here have extremally dark themes. I'm too lazy to add the tags since I made it for personal use but if you're easily triggered by dark themes these ain't for you. All the books here are on goodreads. You can check the synopsis for each book there. Some of these can't even be considered romance >_>`
 <br>
 **Everything's F/M.**
 
