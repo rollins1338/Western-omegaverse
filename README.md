@@ -13,7 +13,7 @@
 - [x] [Under Your Scars (Standalone)](https://github.com/rollins1338/undrurscrs)
 - [ ] [Web of Silence Duet](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/tree/main/Web%20of%20Silence%20(Duet))
 - [x] [The Ritual (Standalone)](https://github.com/rollins1338/Theritual)
-- [ ] [The Brethren Lords](https://github.com/rollins1338/brethenlords)
+- [x] [The Brethren Lords](https://github.com/rollins1338/brethenlords)
 
 
 ---
